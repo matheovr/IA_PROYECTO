@@ -8,4 +8,5 @@ Los datos del proyecto vienen de La competición [IEEE-CIS Fraud Detection](http
 !kaggle competitions download -c ieee-fraud-detection
 
 Luego de configurar la API de kaggle como se muestra en el video [Cómo descargar conjuntos de datos de Kaggle usando la API de Kaggle](https://youtu.be/gkEbaMgvLs8).
-## Videos
+## Videos
+- [Video segunda entrega](https://1drv.ms/v/s!AlMQtBOil1k1h3l0lFYfn3xA5jWi?e=SdnlmM)
